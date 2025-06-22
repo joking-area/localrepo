@@ -6,7 +6,7 @@ void f(int a) {
 int main() {
     int a;
     cin >> a;
-    cout << "hello duniya" << endl;
+    cout << "hello duniya" <<"comeon man go hard deep thought" << endl;
     f(a);
    
     
