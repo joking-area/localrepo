@@ -6,7 +6,9 @@ void f(int a) {
 int main() {
     int a;
     cin >> a;
+    cout << "hello duniya" << endl;
     f(a);
+   
     
     return 0;
 }
